@@ -186,27 +186,27 @@ export default {
     {
       termino: 'Herramientas de patronaje',
       significado:
-        'instrumentos necesarios para la creación de moldes, como reglas curvas, escuadras, lápices, bisturí de corte, papel <em>kraft</em>, compás, punzones y cintas métricas. estas herramientas permiten trazar, medir y recortar con precisión las piezas del patrón.',
+        'instrumentos necesarios para la creación de moldes, como reglas curvas, escuadras, lápices, bisturí de corte, papel <em>kraft</em>, compás, punzones y cintas métricas. Estas herramientas permiten trazar, medir y recortar con precisión las piezas del patrón.',
     },
     {
       termino: 'Patrón',
       significado:
-        'plantilla en papel, cartón o digital que representa cada parte del bolso. se utiliza para cortar el material final con exactitud, respetando las formas y dimensiones establecidas en el diseño.',
+        'plantilla en papel, cartón o digital que representa cada parte del bolso. Se utiliza para cortar el material final con exactitud, respetando las formas y dimensiones establecidas en el diseño.',
     },
     {
       termino: 'Molde',
       significado:
-        'sinónimo de patrón en marroquinería. cada molde corresponde a una pieza del bolso (frontal, base, fuelle, etc.) e incluye detalles técnicos como márgenes de costura, dobleces o posiciones de herrajes.',
+        'sinónimo de patrón en marroquinería. Cada molde corresponde a una pieza del bolso (frontal, base, fuelle, etc.) e incluye detalles técnicos como márgenes de costura, dobleces o posiciones de herrajes.',
     },
     {
       termino: 'Ejes de simetría',
       significado:
-        'líneas guía que dividen las piezas del patrón en partes iguales. son fundamentales para lograr un diseño equilibrado y facilitar el trazado de formas simétricas, especialmente en piezas como la tapa, el frontal o el espaldar.',
+        'líneas guía que dividen las piezas del patrón en partes iguales. Son fundamentales para lograr un diseño equilibrado y facilitar el trazado de formas simétricas, especialmente en piezas como la tapa, el frontal o el espaldar.',
     },
     {
       termino: 'Patronaje',
       significado:
-        'proceso de diseño y trazado de los moldes que conforman un bolso. implica estudiar el modelo, definir las medidas, descomponer las partes y elaborar las plantillas según criterios técnicos.',
+        'proceso de diseño y trazado de los moldes que conforman un bolso. Implica estudiar el modelo, definir las medidas, descomponer las partes y elaborar las plantillas según criterios técnicos.',
     },
     {
       termino: 'Frontal',
@@ -216,7 +216,7 @@ export default {
     {
       termino: 'Fuelle',
       significado:
-        'pieza lateral que aporta profundidad al bolso. puede ser recto o inclinado (diagonal), y permite la expansión de la capacidad interior.',
+        'pieza lateral que aporta profundidad al bolso. Puede ser recto o inclinado (diagonal), y permite la expansión de la capacidad interior.',
     },
     {
       termino: 'Maqueta de comprobación',
@@ -226,12 +226,12 @@ export default {
     {
       termino: 'Márgenes de costura',
       significado:
-        'espacios añadidos al borde de los moldes para permitir la unión de las piezas mediante costura. varían entre 7 mm y 1 cm, según el tipo de material y el acabado deseado.',
+        'espacios añadidos al borde de los moldes para permitir la unión de las piezas mediante costura. Varían entre 7 mm y 1 cm, según el tipo de material y el acabado deseado.',
     },
     {
       termino: 'Línea de boca',
       significado:
-        'línea horizontal superior del bolso que define la abertura por donde se accede al interior. sirve como punto de referencia en la construcción del patrón del forro o la franja superior.',
+        'línea horizontal superior del bolso que define la abertura por donde se accede al interior. Sirve como punto de referencia en la construcción del patrón del forro o la franja superior.',
     },
     {
       termino: 'Contratapa',
@@ -251,7 +251,7 @@ export default {
     {
       termino: 'Base',
       significado:
-        'parte inferior del bolso sobre la que se construye el resto de las piezas. su forma y tamaño determinan la capacidad y estabilidad del bolso.',
+        'parte inferior del bolso sobre la que se construye el resto de las piezas. Su forma y tamaño determinan la capacidad y estabilidad del bolso.',
     },
   ],
   referencias: [

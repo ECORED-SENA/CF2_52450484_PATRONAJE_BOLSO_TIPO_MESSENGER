@@ -181,7 +181,7 @@
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img44.svg', alt='').m-auto
           .col-xl
-            p.mb-0 Para definir la parte posterior de la tapa la sección que se conecta con el espaldar se dibuja una línea horizontal a <strong>3 cm</strong> del borde superior del patrón, paralela a dicho borde.
+            p.mb-0 Para definir la parte posterior de la tapa, la sección que se conecta con el espaldar, se dibuja una línea horizontal a <strong>3 cm</strong> del borde superior del patrón, paralela a dicho borde.
         p.mb-0 Sobre esta línea, tomando como referencia el borde vertical del patrón, se mide <strong>3 cm</strong> hacia el interior y se marca un punto. Desde la esquina superior del frontal se traza una línea diagonal hasta este punto, estableciendo el ángulo de inserción de la tapa en el espaldar.
       .col-xl-auto.espacio___movil_4
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -524,7 +524,7 @@
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img65.png', alt='').m-auto
       .col-xl.style___box_12(data-aos="zoom-in")
-        p.mb-0 Por último, se dibujan el molde de los terminales de cremallera, los cuales se utilizan para evitar que la cremallera llegue hasta el borde de la tapa, brindando así un mejor acabado. Para su elaboración, se toma como base el recuadro del bolsillo previamente dibujado en el molde patrón, cuyas dimensiones son de 3 cm por 1.4 cm. A este rectángulo se le agregan aumentos de 1 cm en las líneas horizontales para el armado, y de 7 mm en las líneas verticales para el doblez.
+        p.mb-0 Por último, se dibuja el molde de los terminales de cremallera, los cuales se utilizan para evitar que la cremallera llegue hasta el borde de la tapa, brindando así un mejor acabado. Para su elaboración, se toma como base el recuadro del bolsillo previamente dibujado en el molde patrón, cuyas dimensiones son de 3 cm por 1.4 cm. A este rectángulo se le agregan aumentos de 1 cm en las líneas horizontales para el armado, y de 7 mm en las líneas verticales para el doblez.
       .col-xl-4.espacio___movil_4
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Figura 35.
@@ -549,7 +549,7 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/img67.png', alt='Ilustración del molde del bolsillo frontal y su fuelle, representando dimensiones y contornos exactos antes de aplicar aumentos.').m-auto
     
-    p.mb-5 Posteriormente, se aplican los aumentos correspondientes: al molde del bolsillo se le da un aumento de 8 mm en el contorno que se unirá con el fuelle y 7 mm en la parte superior para el doblez. En el caso del fuelle, se da un aumento de 8 mm en la línea que lo une con el bolsillo y 7 mm en las partes superiores para el doblez, la parte que se une con el frontal se le da aumento de doblez.
+    p.mb-5 Posteriormente, se aplican los aumentos correspondientes: al molde del bolsillo se le da un aumento de 8 mm en el contorno que se unirá con el fuelle y 7 mm en la parte superior para el doblez. En el caso del fuelle, se da un aumento de 8 mm en la línea que lo une con el bolsillo y 7 mm en las partes superiores para el doblez; la parte que se une con el frontal se le da aumento de doblez.
 
     .row.justify-content-center.mb-5
       .col-xl-10
@@ -927,7 +927,7 @@
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img95.svg', alt='').m-auto
           .col-xl
-            p.mb-0 <strong>Nota:</strong> Si el bolso se construye al corte, no se aplican aumentos de doblado, ya que las piezas se ensamblan directamente sin repliegues en los bordes.
+            p.mb-0 <strong>Nota:</strong> si el bolso se construye al corte, no se aplican aumentos de doblado, ya que las piezas se ensamblan directamente sin repliegues en los bordes.
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto

@@ -45,7 +45,7 @@
       .col-xl-10
         .row.align-items-center.m-0
           .col-xl.style___box_8.ajuste___box_8(data-aos="fade-right")
-            p En este enfoque, el fuelle, pieza que conecta el frontal y el fondo del bolso— es el punto de partida dimensional y estructural. Aquí, el fuelle determina la altura, profundidad y, en algunos casos, la forma de la base, adaptando a sus medidas las piezas principal (frontal) y secundaria (espalda).
+            p En este enfoque, el fuelle, pieza que conecta el frontal y el fondo del bolso es el punto de partida dimensional y estructural. Aquí, el fuelle determina la altura, profundidad y, en algunos casos, la forma de la base, adaptando a sus medidas las piezas principal (frontal) y secundaria (espalda).
             p.mb-0 Cada sistema ofrece resultados distintos en cuanto a forma, capacidad, estética y complejidad de confección. A través de este componente formativo, el aprendiz desarrollará competencias para diseñar, trazar y construir patrones funcionales y precisos, aplicables a diversas versiones del bolso tipo <em>Messenger</em>.
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block

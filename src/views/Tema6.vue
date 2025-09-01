@@ -30,7 +30,7 @@
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img95.svg', alt='').m-auto
           .col-xl
-            p.mb-0 <strong>Nota:</strong> Las medidas deben tomarse desde los ejes de simetría hacia el exterior, garantizando así una construcción precisa y equilibrada del molde.
+            p.mb-0 <strong>Nota:</strong> las medidas deben tomarse desde los ejes de simetría hacia el exterior, garantizando así una construcción precisa y equilibrada del molde.
     
     .row.justify-content-center
       .col-xl-6
@@ -97,7 +97,7 @@
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img102.png', alt='').m-auto
           .col-xl.style___box_2
-            p.mb-0 El ancho dependerá del diseño o del criterio del patronista; para este caso, se utilizará una medida estándar de <strong>25 cm</strong>. Una vez definidas las dimensiones finales (<strong>25 cm</strong> de ancho por <strong>33,2 cm</strong> de alto), se recomienda cortar una cartulina ligeramente mayor por ejemplo, de <strong>28 cm</strong> por <strong>36 cm</strong> para trabajar con mayor comodidad.
+            p.mb-0 El ancho dependerá del diseño o del criterio del patronista; para este caso, se utilizará una medida estándar de <strong>25 cm</strong>. Una vez definidas las dimensiones finales (<strong>25 cm</strong> de ancho por <strong>33,2 cm</strong> de alto), se recomienda cortar una cartulina ligeramente mayor por ejemplo, de <strong>28 cm</strong> por <strong>36 cm</strong>, para trabajar con mayor comodidad.
     
     p.mb-5 Se trazan los ejes de simetría horizontal y vertical, siguiendo el procedimiento ya explicado. A partir de ellos, se construye el rectángulo que define las medidas exactas del frontal y espaldar, asegurando precisión y facilitando posibles ajustes posteriores.
 
@@ -265,7 +265,7 @@
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img113.png', alt='').m-auto
           .col-xl.style___box_2
-            p.mb-0 El forro del frontal se construye tomando como referencia la línea de la boca. Desde la parte inferior del frontal-espaldar se une la base, y a su vez, en la parte inferior de la base se integra nuevamente el molde del frontal-espaldar hasta llegar otra vez a la línea de la boca.
+            p.mb-0 El forro del frontal se construye tomando como referencia la línea de la boca. Desde la parte inferior del frontal y espaldar se une la base y, a su vez, en la parte inferior de la base, se integra nuevamente el molde del frontal y espaldar hasta llegar otra vez a la línea de la boca.
     
     .fondo___slider.mb-5
       .px-5
@@ -283,7 +283,7 @@
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                p.mb-0 Para la ubicación del bolsillo interno y el organizador vamos a realizarlo de la misma forma que el modelo anterior.
+                p.mb-0 Para la ubicación del bolsillo interno y el organizador, vamos a realizarlo de la misma forma que el modelo anterior.
               .col-xl-6
                 .titulo-sexto.color-acento-contenido.mb-2
                   h5 Figura 67.
