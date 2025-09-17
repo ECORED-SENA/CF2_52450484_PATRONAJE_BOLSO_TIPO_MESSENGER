@@ -1,2 +1,1 @@
-module.exports =
-  'Patronaje y construcción de patrones para bolso <em>Messenger</em>'
+module.exports = 'Patronaje y construcción de patrones para bolso Messenger'
