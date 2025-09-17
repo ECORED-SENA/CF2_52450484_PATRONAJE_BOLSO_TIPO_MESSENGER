@@ -8,7 +8,7 @@
       h1 Elaboración maqueta de comprobación
     
 
-    p.mb-4 A continuación, se presenta un video que explica de manera detallada el proceso de elaboración de una maqueta de comprobación para bolsos tipo <em>Messenger</em>, destacando su importancia en la validación de moldes, la optimización del diseño y la garantía de calidad en la producción.
+    p.mb-4 A continuación, se presenta un video que explica de manera detallada el proceso de elaboración de una maqueta de comprobación para bolsos tipo Messenger, destacando su importancia en la validación de moldes, la optimización del diseño y la garantía de calidad en la producción.
 
     figure(data-aos="zoom-in")
       .video.mb-1

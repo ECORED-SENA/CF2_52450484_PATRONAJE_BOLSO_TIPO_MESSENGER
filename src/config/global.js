@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Patronaje y construcción de patrones para bolso <em>Messenger</em>',
+    Name: 'Patronaje y construcción de patrones para bolso Messenger',
     Description:
-      'El componente formativo desarrolla habilidades para diseñar, trazar y ajustar patrones de bolso tipo <em>Messenger</em>, aplicando técnicas manuales, herramientas específicas y criterios de simetría, funcionalidad y optimización de materiales. Incluye elaboración de moldes, despieces, forros y maquetas de comprobación, garantizando precisión, calidad y estética en la confección, así como adaptación a necesidades y tendencias del sector marroquinero.',
+      'El componente formativo desarrolla habilidades para diseñar, trazar y ajustar patrones de bolso tipo Messenger, aplicando técnicas manuales, herramientas específicas y criterios de simetría, funcionalidad y optimización de materiales. Incluye elaboración de moldes, despieces, forros y maquetas de comprobación, garantizando precisión, calidad y estética en la confección, así como adaptación a necesidades y tendencias del sector marroquinero.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -36,8 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo:
-          'Herramientas esenciales para el patronaje de bolso <em>Messenger</em>',
+        titulo: 'Herramientas esenciales para el patronaje de bolso Messenger',
         desarrolloContenidos: true,
       },
 
@@ -69,7 +68,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Elaborar patrones para bolso tipo <em>Messenger</em>',
+        titulo: 'Elaborar patrones para bolso tipo Messenger',
         desarrolloContenidos: true,
       },
       {
@@ -98,8 +97,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo:
-          'Patronaje bolso <em>Messenger</em> construcción a partir del fuelle',
+        titulo: 'Patronaje bolso Messenger construcción a partir del fuelle',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -211,7 +209,7 @@ export default {
     {
       termino: 'Frontal',
       significado:
-        'parte principal delantera del bolso <em>Messenger</em>, de la cual pueden derivarse otras piezas como la tapa, boca o bolsillos.',
+        'parte principal delantera del bolso Messenger, de la cual pueden derivarse otras piezas como la tapa, boca o bolsillos.',
     },
     {
       termino: 'Fuelle',

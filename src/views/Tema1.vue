@@ -5,9 +5,9 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
-      h1 Herramientas esenciales para el patronaje de bolso <em>Messenger</em>
+      h1 Herramientas esenciales para el patronaje de bolso Messenger
     
-    p.mb-5 El desarrollo adecuado de patrones para bolsos <em>Messenger</em> requiere herramientas específicas que permitan obtener moldes precisos, optimizar el trabajo manual y asegurar acabados de alta calidad. Para iniciar el proceso de patronaje, es indispensable contar con materiales que garanticen precisión y durabilidad en los moldes:
+    p.mb-5 El desarrollo adecuado de patrones para bolsos Messenger requiere herramientas específicas que permitan obtener moldes precisos, optimizar el trabajo manual y asegurar acabados de alta calidad. Para iniciar el proceso de patronaje, es indispensable contar con materiales que garanticen precisión y durabilidad en los moldes:
 
     .row.justify-content-center.mb-5.m-0.style___box_2.ajuste___box_1(data-aos="zoom-in")
       .col-xl-10
@@ -167,7 +167,7 @@
           .col-lg.style___box_3_1
             p.mb-0 Facilitan la medición de pequeñas distancias, radios o espesores exactos.
     
-    p.mb-0 Estas herramientas constituyen el núcleo esencial del trabajo de patronaje en marroquinería, permitiendo que el diseño y desarrollo del bolso <em>Messenger</em> se realice con un alto grado de precisión, favoreciendo la innovación y la calidad en la producción.
+    p.mb-0 Estas herramientas constituyen el núcleo esencial del trabajo de patronaje en marroquinería, permitiendo que el diseño y desarrollo del bolso Messenger se realice con un alto grado de precisión, favoreciendo la innovación y la calidad en la producción.
         
 </template>
 

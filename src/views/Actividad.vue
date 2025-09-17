@@ -17,11 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema:
-        'Patronaje y construcción de patrones para bolso tipo <em>Messenger</em>',
+      tema: 'Patronaje y construcción de patrones para bolso tipo Messenger',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> identificar los conceptos, herramientas, técnicas y procedimientos clave para el diseño, trazado, despiece y verificación de patrones en la confección de un bolso tipo <em>Messenger</em>, aplicando criterios de precisión, simetría y funcionalidad.',
+        '<b> Objetivo:</b> identificar los conceptos, herramientas, técnicas y procedimientos clave para el diseño, trazado, despiece y verificación de patrones en la confección de un bolso tipo Messenger, aplicando criterios de precisión, simetría y funcionalidad.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -90,7 +89,7 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Qué es un fuelle en un bolso <em>Messenger</em>?',
+          texto: '¿Qué es un fuelle en un bolso Messenger?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

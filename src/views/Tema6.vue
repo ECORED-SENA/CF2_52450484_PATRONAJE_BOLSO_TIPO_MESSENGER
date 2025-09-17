@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 6
-      h1 Patronaje bolso <em>Messenger</em> construcción a partir del fuelle
+      h1 Patronaje bolso Messenger construcción a partir del fuelle
     
     .row.align-items-center.m-0.mb-5.style___box_1(data-aos="zoom-in")
       .col-xl-auto
@@ -36,7 +36,7 @@
       .col-xl-6
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Figura 57.
-          span Molde patrón bolso <em>Messenger</em> construcción a partir del fuelle
+          span Molde patrón bolso Messenger construcción a partir del fuelle
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/img99.png', alt='Imagen del molde patrón del bolso Messenger construido a partir del fuelle, pieza curva con ejes de simetría trazados. ').m-auto
 

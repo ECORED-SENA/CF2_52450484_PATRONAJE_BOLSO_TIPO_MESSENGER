@@ -343,7 +343,7 @@
     
     .row.justify-content-center.mb-5.m-0
       .col-xl-10.style___box_11(data-aos="zoom-in")
-        p.mb-0 Con este paso, se completa la definición del molde patrón, dejando establecidas todas las piezas y elementos necesarios para el desarrollo del bolso tipo <em>Messenger</em>.
+        p.mb-0 Con este paso, se completa la definición del molde patrón, dejando establecidas todas las piezas y elementos necesarios para el desarrollo del bolso tipo Messenger.
     
     .row.justify-content-center
       .col-xl-8
@@ -358,7 +358,7 @@
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.2 Despieces de los diferentes moldes
     
-    p.mb-5 Con el molde patrón definido y las piezas principales dibujadas, se procede al <strong>despiece</strong> de cada uno de los componentes que conforman el bolso <em>Messenger</em>. Este proceso consiste en individualizar cada parte para su posterior trazado, corte y confección, comenzando por la <strong>base del bolso</strong>.
+    p.mb-5 Con el molde patrón definido y las piezas principales dibujadas, se procede al <strong>despiece</strong> de cada uno de los componentes que conforman el bolso Messenger. Este proceso consiste en individualizar cada parte para su posterior trazado, corte y confección, comenzando por la <strong>base del bolso</strong>.
 
      .row.justify-content-center.mb-5
       .col-xl-10

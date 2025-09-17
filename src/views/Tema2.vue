@@ -90,7 +90,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 Clasificación de los patrones en marroquinería
     
-    p.mb-5 En la fabricación de bolsos tipo <em>Messenger</em> y otros accesorios, se emplean diversos tipos de patrones que cumplen funciones específicas en el proceso productivo. La correcta selección y diseño de estos patrones permite optimizar el trabajo, mejorar la precisión y garantizar un acabado profesional.
+    p.mb-5 En la fabricación de bolsos tipo Messenger y otros accesorios, se emplean diversos tipos de patrones que cumplen funciones específicas en el proceso productivo. La correcta selección y diseño de estos patrones permite optimizar el trabajo, mejorar la precisión y garantizar un acabado profesional.
 
     .row.align-items-center.mb-5
       .col-xl-auto(data-aos="fade-right")

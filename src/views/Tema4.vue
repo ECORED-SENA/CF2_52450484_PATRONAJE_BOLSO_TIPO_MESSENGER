@@ -5,9 +5,9 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
-      h1 Elaborar patrones para bolso tipo <em>Messenger</em>
+      h1 Elaborar patrones para bolso tipo Messenger
     
-    p.mb-5 La creación de patrones para un bolso <em>Messenger</em> es un proceso técnico clave en la marroquinería, que transforma una idea o boceto en piezas precisas y reproducibles para la confección. Este trabajo asegura que todas las partes encajen correctamente, optimiza el uso de materiales y garantiza un producto estéticamente equilibrado y funcional.
+    p.mb-5 La creación de patrones para un bolso Messenger es un proceso técnico clave en la marroquinería, que transforma una idea o boceto en piezas precisas y reproducibles para la confección. Este trabajo asegura que todas las partes encajen correctamente, optimiza el uso de materiales y garantiza un producto estéticamente equilibrado y funcional.
 
     .row.justify-content-center.mb-5
       .col-xl-10
@@ -16,7 +16,7 @@
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img29.png', alt='').m-auto
           .col-xl.style___box_8(data-aos="fade-left")
-            p.mb-0 El proceso de construcción de un bolso <em>Messenger</em> puede abordarse mediante distintas estrategias constructivas, cada una con ventajas técnicas específicas en términos de precisión, funcionalidad, rendimiento volumétrico y acabado profesional. A continuación, se presentan dos de los métodos más utilizados, descritos con terminología y criterios técnicos de patronaje y confección en marroquinería.
+            p.mb-0 El proceso de construcción de un bolso Messenger puede abordarse mediante distintas estrategias constructivas, cada una con ventajas técnicas específicas en términos de precisión, funcionalidad, rendimiento volumétrico y acabado profesional. A continuación, se presentan dos de los métodos más utilizados, descritos con terminología y criterios técnicos de patronaje y confección en marroquinería.
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -46,7 +46,7 @@
         .row.align-items-center.m-0
           .col-xl.style___box_8.ajuste___box_8(data-aos="fade-right")
             p En este enfoque, el fuelle, pieza que conecta el frontal y el fondo del bolso es el punto de partida dimensional y estructural. Aquí, el fuelle determina la altura, profundidad y, en algunos casos, la forma de la base, adaptando a sus medidas las piezas principal (frontal) y secundaria (espalda).
-            p.mb-0 Cada sistema ofrece resultados distintos en cuanto a forma, capacidad, estética y complejidad de confección. A través de este componente formativo, el aprendiz desarrollará competencias para diseñar, trazar y construir patrones funcionales y precisos, aplicables a diversas versiones del bolso tipo <em>Messenger</em>.
+            p.mb-0 Cada sistema ofrece resultados distintos en cuanto a forma, capacidad, estética y complejidad de confección. A través de este componente formativo, el aprendiz desarrollará competencias para diseñar, trazar y construir patrones funcionales y precisos, aplicables a diversas versiones del bolso tipo Messenger.
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img31.png', alt='').m-auto

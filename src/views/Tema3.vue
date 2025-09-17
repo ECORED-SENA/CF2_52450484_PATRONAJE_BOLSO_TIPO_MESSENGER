@@ -148,7 +148,7 @@
                 figure
                   img(src='@/assets/curso/temas/img27.png', alt='Fotografía del recorte de bordes horizontales en cartulina para obtener un cuadrado simétrico y parejo.')
       .row(titulo="F. Aplicación directa de los ejes de simetría").ajuste-cajaAcordion
-        p.mb-3 El uso preciso de los ejes de simetría garantiza que las piezas clave del bolso <em>Messenger</em> como solapas, bases, costados o forros sean perfectamente proporcionales. Esto facilita la costura, mejora el acabado y permite innovar en nuevas formas y modelos sin perder equilibrio visual ni precisión en la fabricación.
+        p.mb-3 El uso preciso de los ejes de simetría garantiza que las piezas clave del bolso Messenger como solapas, bases, costados o forros sean perfectamente proporcionales. Esto facilita la costura, mejora el acabado y permite innovar en nuevas formas y modelos sin perder equilibrio visual ni precisión en la fabricación.
         .row.justify-content-center.mb-3
           .col-xl-6
             .titulo-sexto.color-acento-contenido.mb-2
