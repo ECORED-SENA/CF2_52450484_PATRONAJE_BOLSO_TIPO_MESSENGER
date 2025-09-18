@@ -10,28 +10,28 @@
     .fondo___img_1
       .px-5
         p.mb-5 El desarrollo preciso de patrones o moldes es fundamental en marroquinería, ya que asegura que todas las piezas de un bolso encajen a la perfección. Esta etapa incide directamente en la <strong>calidad</strong>, la <strong>productividad</strong> y la <strong>optimización de materiales</strong>. Un patrón bien diseñado reduce errores, mantiene la uniformidad en series de producción y facilita el ensamblaje del producto final.
-        .row.mb-5
-          .col-xl-4(data-aos="zoom-in")
+        .row.justify-content-center.mb-5
+          .col-xl-4.col-md-8(data-aos="zoom-in")
             .style___box_4.h-100
               .row.justify-content-center.mb-3
                 .col-7
-                  figure.mb-4.d-none.d-xl-block(data-aos="fade-right")
+                  figure.mb-4(data-aos="fade-right")
                     img(src='@/assets/curso/temas/img8.svg', alt="" style="max-width: 100px").m-auto
                 h3 Tolerancias de costura
                 p.mb-0 Compensan el espacio necesario para uniones y acabados.
-          .col-xl-4(data-aos="zoom-in").espacio___movil_3
+          .col-xl-4.col-md-8(data-aos="zoom-in").espacio___movil_3
             .style___box_4.h-100
               .row.justify-content-center.mb-3
                 .col-7
-                  figure.mb-4.d-none.d-xl-block(data-aos="fade-right")
+                  figure.mb-4(data-aos="fade-right")
                     img(src='@/assets/curso/temas/img9.svg', alt="" style="max-width: 100px").m-auto
                 h3 Tipo de acabado
                 p.mb-0 Define si los bordes serán doblados, cortados, reforzados o con ribete.
-          .col-xl-4(data-aos="zoom-in").espacio___movil_3
+          .col-xl-4.col-md-8(data-aos="zoom-in").espacio___movil_3
             .style___box_4.h-100
               .row.justify-content-center.mb-3
                 .col-7
-                  figure.mb-4.d-none.d-xl-block(data-aos="fade-left")
+                  figure.mb-4(data-aos="fade-left")
                     img(src='@/assets/curso/temas/img10.svg', alt="" style="max-width: 100px").m-auto
                 h3 Comportamiento del material
                 p.mb-0 Considera rigidez, elasticidad y espesor para evitar alteraciones en el armado y en el uso final del bolso.
@@ -45,37 +45,37 @@
 
     .row.align-items-center
       .col-xl
-        .row.mb-3
-          .col-xl-6(data-aos="zoom-in")
+        .row.justify-content-center.mb-3
+          .col-xl-6.col-md-8(data-aos="zoom-in")
             .style___box_5.h-100
               .row.justify-content-center.mb-3
                 .col-7
-                  figure.mb-4.d-none.d-xl-block(data-aos="fade-right")
+                  figure.mb-4(data-aos="fade-right")
                     img(src='@/assets/curso/temas/img11.svg', alt="" style="max-width: 120px").m-auto
                 h3 Precisión
                 p.mb-0 Todas las piezas encajan correctamente.
-          .col-xl-6(data-aos="zoom-in").espacio___movil_3
+          .col-xl-6.col-md-8(data-aos="zoom-in").espacio___movil_3
             .style___box_6.h-100
               .row.justify-content-center.mb-3
                 .col-7
-                  figure.mb-4.d-none.d-xl-block(data-aos="fade-right")
+                  figure.mb-4(data-aos="fade-right")
                     img(src='@/assets/curso/temas/img12.svg', alt="" style="max-width: 120px").m-auto
                 h3 Simetría
                 p.mb-0 El producto final mantiene proporciones armónicas.
-        .row
-          .col-xl-6(data-aos="zoom-in")
+        .row.justify-content-center
+          .col-xl-6.col-md-8(data-aos="zoom-in")
             .style___box_6.h-100
               .row.justify-content-center.mb-3
                 .col-7
-                  figure.mb-4.d-none.d-xl-block(data-aos="fade-right")
+                  figure.mb-4(data-aos="fade-right")
                     img(src='@/assets/curso/temas/img13.svg', alt="" style="max-width: 120px").m-auto
                 h3 Diseño
                 p.mb-0 Se respeta la estética y funcionalidad original.
-          .col-xl-6(data-aos="zoom-in").espacio___movil_3
+          .col-xl-6.col-md-8(data-aos="zoom-in").espacio___movil_3
             .style___box_5.h-100
               .row.justify-content-center.mb-3
                 .col-7
-                  figure.mb-4.d-none.d-xl-block(data-aos="fade-right")
+                  figure.mb-4(data-aos="fade-right")
                     img(src='@/assets/curso/temas/img14.svg', alt="" style="max-width: 120px").m-auto
                 h3 Facilidad de ensamble
                 p.mb-0 Las piezas se ensamblan de forma fluida, minimizando errores y retoques.

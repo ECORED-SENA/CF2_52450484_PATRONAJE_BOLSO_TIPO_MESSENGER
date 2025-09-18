@@ -292,7 +292,7 @@
                 h4 Ubicación sobre la correa
                 p.mb-0 En cada correa dibujada previamente en la tapa, traza dos líneas paralelas al borde inferior: la primera a 1,5 cm del borde y la segunda a 4 cm del mismo borde. Este espacio delimita la zona donde se fijará el hebillero.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img51.png', alt='').m-auto
             
             .row.h-100.justify-content-center.align-items-center
@@ -300,7 +300,7 @@
                 h4 Simetría
                 p.mb-0 Repite el procedimiento en la correa del lado opuesto, utilizando el eje vertical de simetría como referencia para garantizar una ubicación exacta y un diseño equilibrado.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img52.png', alt='' ).m-auto
 
             .row.h-100.justify-content-center.align-items-center
@@ -308,7 +308,7 @@
                 h4 Consideraciones técnicas
                 p.mb-0 Las medidas deben adaptarse al tipo de hebilla seleccionada. Es recomendable contar con los herrajes físicos al momento del trazado para comprobar proporciones y asegurar la correcta inserción y fijación del hebillero durante la confección.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img53.png', alt='' ).m-auto
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
