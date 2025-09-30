@@ -217,7 +217,7 @@
       .col-xl-8
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Figura 64.
-          span Patrón Contratapa y forro tapa
+          span Patrón contratapa y forro tapa
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/img110.png', alt='Ilustración del patrón de contratapa y forro de tapa, con línea divisoria para asignar materiales diferentes en cada sección.').m-auto
 

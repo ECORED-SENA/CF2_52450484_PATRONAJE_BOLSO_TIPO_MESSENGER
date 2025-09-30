@@ -168,14 +168,14 @@ export default {
     {
       tema: 'Elaborar patrones para bolso tipo Messenger',
       referencia:
-        'Bolsosmochilasfundasymas (2017, 8 junio). COMO CONFECCIONAR UN MORRAL O BANDOLERA ( PARTE 1) how to make a backpack or shoulder bag 1  [Archivo de video] Youtube. ',
+        'Bolsosmochilasfundasymas (2017, 8 junio). COMO CONFECCIONAR UN MORRAL O BANDOLERA ( PARTE 1) how to make a backpack or shoulder bag 1  [Archivo de video] YouTube. ',
       tipo: 'Video',
       link: 'https://youtu.be/g54wzYk32o4 ',
     },
     {
       tema: 'Elaborar patrones para bolso tipo Messenger',
       referencia:
-        'Miko Craft. (2021) Men`s Messenger Bag Tutorial - DIY Cara Membuat Tas Selempang Pria - Bag Making with Miko Craft.  [Archivo de video] Youtube.',
+        'Miko Craft. (2021) Men`s Messenger Bag Tutorial - DIY Cara Membuat Tas Selempang Pria - Bag Making with Miko Craft.  [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/Xac5qxclbFE?si=bvyWt3QdfaD46bb0 ',
     },
@@ -288,7 +288,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermudez Jaimes',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],
